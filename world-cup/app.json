@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "world-cup",
+    "slug": "world-cup",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "world-cup"
+}
